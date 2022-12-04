@@ -3,7 +3,8 @@
 </div>
 
 # About
-[Tampermonkey](https://www.tampermonkey.net/) is the most popular **userscript manager extension**, with over _**10 million users**_. It's available for _Chrome_, _Microsoft Edge_, _Safari_, _Opera_, and _Firefox_.
+[Tampermonkey](https://www.tampermonkey.net/) is the most popular **userscript manager extension**, with over _10 million users_.<br>
+It's available for _Chrome_, _Microsoft Edge_, _Safari_, _Opera_, and _Firefox_.
 
 This extension is installed **in just a minute**, so give it a try!
 
@@ -22,7 +23,6 @@ Download the extension according to the browser you are currently using:
 
 
 # Tutorial 
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8tyjJD65zws
 " target="_blank"><img src="http://img.youtube.com/vi/8tyjJD65zws/0.jpg" 
 alt="How to install and use Tampermonkey"/></a>
