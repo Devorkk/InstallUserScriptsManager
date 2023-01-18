@@ -1,34 +1,21 @@
-<div align="center">
-      <img src="images/tampermonkey.jpg" width="250px">
-</div>
+# What are user scripts?
+User scripts put you in control of your browsing experience. Once installed, they automatically make the sites you visit better by adding features, making them easier to use, or taking out the annoying bits. The user scripts on Greasy Fork were written by other users and posted to share with the world. They're free to install and easy to use.
 
-# About
-[Tampermonkey](https://www.tampermonkey.net/) is the most popular **userscript manager extension**, with over _10 million users_.<br>
-It's available for _Chrome_, _Microsoft Edge_, _Safari_, _Opera_, and _Firefox_.
+# Step 1: install a user script manager
 
-This extension is installed **in just a minute**, so give it a try!
+To use user scripts you need to first install a user script manager. Which user script manager you can use depends on which browser you use.
 
+- Chrome: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) <br>
+- Firefox: [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/), or [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) <br>
+- Safari: [Tampermonkey](https://www.tampermonkey.net/?browser=safari) or [Userscripts](https://apps.apple.com/app/userscripts/id1463298887)
+- Microsoft Edge: [Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) or [Violentmonkey](https://microsoftedge.microsoft.com/addons/detail/violentmonkey/eeagobfjdenkkddmbclomhiblgggliao)
+- Opera: [Tampermonkey](https://addons.opera.com/en/extensions/details/tampermonkey-beta/) or [Violentmonkey](https://violentmonkey.github.io/get-it/)
+- Maxthon: [Violentmonkey](https://extension.maxthon.com/detail/index.php?view_id=1680)
 
-# Getting Started
-Download the extension according to the browser you are currently using:
+# Step 2: install a user script
 
-[<img src="https://img.shields.io/badge/tampermonkey-chrome-yellow" width="200"/>](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-[<img src="https://img.shields.io/badge/tampermonkey-microsoft--edge-green" width="264"/>](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
-
-[<img src="https://img.shields.io/badge/tampermonkey-safari-blue" width="200"/>](https://apps.apple.com/app/apple-store/id1482490089?pt=117945903&ct=tm.net&mt=8)
-[<img src="https://img.shields.io/badge/tampermonkey-firefox-orange" width="200"/>](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-
-[<img src="https://img.shields.io/badge/tampermonkey-opera-red" width="200"/>](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
-
-
-
-# Tutorial 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=8tyjJD65zws
-" target="_blank"><img src="http://img.youtube.com/vi/8tyjJD65zws/0.jpg" 
-alt="How to install and use Tampermonkey"/></a>
-
-# Userscript installation
-Once installed, you can download one of my scripts and then will redirect you to an _**installation page**_.<br>
-Click on **"install"** and you are ready to use it!
+Once you've found a user script, you can download one of my scripts and your user script manager will ask you to confirm the install, then you are ready to use it.
 
 <img src="images/example.jpeg">
+
+Source: [GreasyFork](https://greasyfork.org/)
